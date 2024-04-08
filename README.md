@@ -4,7 +4,7 @@ Este es un actualizador de software simple escrito en Python que permite a los u
 
 ```
 ## Funcionalidades:
-> [!NOTE]
+
  * Actualización Automática: El script comprueba automáticamente si hay actualizaciones disponibles para las aplicaciones especificadas.
  * Notificaciones: Se notifica al usuario cuando hay actualizaciones disponibles.
  * Instalación Automática: Si el usuario lo desea, las actualizaciones pueden instalarse automáticamente.
